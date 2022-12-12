@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Guko Samir</string>
+    <string name="yellow_star">yellpw star</string>
+    <string name="bio">this was a very big string but i had changed it to ve this text because it caused some problems and i need to study more aabout not allowed things in strings in java or kotlin right now i will only copy this text and repeat it this was a very big string but i had changed it to ve this text because it caused some problems and i need to study more aabout not allowed things in strings in java or kotlin right now i will only copy this text and repeat it this was a very big string but i had changed it to ve this text because it caused some problems and i need to study more aabout not allowed things in strings in java or kotlin right now i will only copy this text and repeat it this was a very big string but i had changed it to ve this text because it caused some problems and i need to study more aabout not allowed things in strings in java or kotlin right now i will only copy this text and repeat it </string>
+    <string name="whats" />
+    <string name="whats_your_name">what\'s your name</string>
+    <string name="done">Done</string>
+</resources>
